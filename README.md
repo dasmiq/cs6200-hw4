@@ -1,4 +1,4 @@
-# CS6200/IS4200: Homework 3
+# CS6200/IS4200: Homework 4
 
 After cloning this repository, you can edit the Jupyter notebook locally or an a hosted platform like Google Colab. Read through the notebook `classification.ipynb`, filling in code and explanations in the blocks starting with "TODO". The notebook has an extra section for students in CS6200.
 
